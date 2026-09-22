@@ -32,9 +32,9 @@ The **Cardiovascular Collective** brings together leading research groups to adv
     <img src="{{ '/assets/img/lab2-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 2 Logo">
   </div>
   <div class="col-md-9">
-    <h3><a href="#" target="_blank">Second Lab Name Here</a></h3>
-    <p><em>University / Institution Name</em></p>
-    <p>Add the summary description for the second lab here...</p>
+    <h3><a href="#" target="_blank">Vascular Stress Physiology and Resilience Lab</a></h3>
+    <p><em>University of Wisconsin - Madison</em></p>
+    <p>The VSPR Lab studies how psychosocial and environmental stressors affect blood vessel health across the lifespan, combining vascular physiology with cellular and mitochondrial biology to uncover what drives cardiometabolic disease risk in high-risk populations. Using tools like live-cell imaging and mitochondrial phenotyping, the lab traces how stress and other circulating factors act on endothelial and mitochondrial function — work that connects everyday biological stress to long-term vascular and metabolic disease.</p>
   </div>
 </div>
 
@@ -45,8 +45,8 @@ The **Cardiovascular Collective** brings together leading research groups to adv
     <img src="{{ '/assets/img/lab3-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 3 Logo">
   </div>
   <div class="col-md-9">
-    <h3><a href="#" target="_blank">Third Lab Name Here</a></h3>
-    <p><em>University / Institution Name</em></p>
-    <p>Add the summary description for the third lab here...</p>
+    <h3><a href="#" target="_blank">Integrative Blood Pressure Control Lab</a></h3>
+    <p><em>Virginia Commonwealth University</em></p>
+    <p>The IBPC Lab studies how aging and the accompanying shifts in sex hormones — particularly declining testosterone — reshape blood pressure regulation. Our work spans neural control of blood pressure, salt-sensitive hypertension, and vascular and kidney function, using both observational studies and controlled hormone manipulation to isolate cause from correlation. A current focus includes how androgen deprivation therapy in men with prostate cancer affects cardiovascular risk, offering a unique window into how changing hormone status drives blood pressure dysfunction later in life.</p>
   </div>
 </div>

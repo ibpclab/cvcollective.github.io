@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: we_are_physiology.png
+  image: A280F814-1868-46CD-A758-20B614B19698.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

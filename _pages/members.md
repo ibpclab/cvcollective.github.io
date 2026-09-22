@@ -15,7 +15,7 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
     <!-- Place logo/photo image inside assets/img/ and reference it here -->
-    <img src="{{ '/assets/img/nvpl-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neurovascular Physiology Lab Logo">
+    <img src="{{ '/assets/img/nvpl_logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neurovascular Physiology Lab Logo">
   </div>
   <div class="col-md-9">
     <h3><a href="https://www.nvplaboratory.net/" target="_blank">Neurovascular Physiology Lab</a></h3>
@@ -42,10 +42,10 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
-    <img src="{{ '/assets/img/lab3-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 3 Logo">
+    <img src="{{ '/assets/img/IBPC_Logo_Emblem_Transparent.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 3 Logo">
   </div>
   <div class="col-md-9">
-    <h3><a href="#" target="_blank">Integrative Blood Pressure Control Lab</a></h3>
+    <h3><a href="www.ibpclab.com" target="_blank">Integrative Blood Pressure Control Lab</a></h3>
     <p><em>Virginia Commonwealth University</em></p>
     <p>The IBPC Lab studies how aging and the accompanying shifts in sex hormones — particularly declining testosterone — reshape blood pressure regulation. Our work spans neural control of blood pressure, salt-sensitive hypertension, and vascular and kidney function, using both observational studies and controlled hormone manipulation to isolate cause from correlation. A current focus includes how androgen deprivation therapy in men with prostate cancer affects cardiovascular risk, offering a unique window into how changing hormone status drives blood pressure dysfunction later in life.</p>
   </div>

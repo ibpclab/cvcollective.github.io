@@ -15,7 +15,9 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
     <!-- Place logo/photo image inside assets/img/ and reference it here -->
-    <img src="{{ '/assets/img/NVPL_Logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neurovascular Physiology Lab Logo">
+    <img src="{{ '/assets/img/NVPL_Logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" 
+     style="max-width: 180px; max-height: 120px; width: auto; height: auto; object-fit: contain;" 
+     alt="Neurovascular Physiology Lab Logo">
   </div>
   <div class="col-md-9">
     <h3><a href="https://www.nvplaboratory.net/" target="_blank">Neurovascular Physiology Lab</a></h3>
@@ -29,7 +31,9 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
-    <img src="{{ '/assets/img/lab2-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 2 Logo">
+    <img src="{{ '/assets/img/lab2-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" 
+     style="max-width: 180px; max-height: 120px; width: auto; height: auto; object-fit: contain;" 
+     alt="Vascular Stress Physiology and Resilience Lab Logo">
   </div>
   <div class="col-md-9">
     <h3><a href="#" target="_blank">Vascular Stress Physiology and Resilience Lab</a></h3>
@@ -42,7 +46,9 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
-    <img src="{{ '/assets/img/IBPC_Logo_Emblem_Transparent.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Lab 3 Logo">
+    <img src="{{ '/assets/img/IBPC_Logo_Emblem_Transparent.png' | relative_url }}" class="img-fluid rounded z-depth-1" 
+     style="max-width: 180px; max-height: 120px; width: auto; height: auto; object-fit: contain;" 
+     alt="Integrative Blood Pressure Control Lab Logo">
   </div>
   <div class="col-md-9">
     <h3><a href="www.ibpclab.com" target="_blank">Integrative Blood Pressure Control Lab</a></h3>

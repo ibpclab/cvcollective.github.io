@@ -15,7 +15,7 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
     <!-- Place logo/photo image inside assets/img/ and reference it here -->
-    <img src="{{ '/assets/img/nvpl_logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neurovascular Physiology Lab Logo">
+    <img src="{{ '/assets/img/NVPL_Logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Neurovascular Physiology Lab Logo">
   </div>
   <div class="col-md-9">
     <h3><a href="https://www.nvplaboratory.net/" target="_blank">Neurovascular Physiology Lab</a></h3>

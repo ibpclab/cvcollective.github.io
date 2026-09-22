@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The Cardiovascular Collective is a collaborative research network united by a shared mission: to reduce the burden of cardiovascular disease through rigorous, collaborative science. Founded by investigators from Virginia Commonwealth University, Indiana University, and the University of Wisconsin–Madison, we study the heart, blood vessels, kidneys, and the nervous system that governs them — work that spans the bench to the bedside. We welcome collaborators who share our mission.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Our members share resources and expertise across institutions, pursue joint grants and multi-site studies, and mentor the next generation of physiologists through cross-lab trainee exchange. Collaborating across institutions gives us access to a wider range of skills, resources, and perspectives than we'd have working alone. It also allows us to design more rigorous studies and train students more broadly than any single lab could.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Whether you're a fellow researcher, a prospective trainee, or simply curious about the science of the heart and vasculature, we're glad you're here.

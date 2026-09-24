@@ -31,7 +31,7 @@ The **Cardiovascular Collective** brings together leading research groups to adv
 
 <div class="row align-items-center mb-4">
   <div class="col-md-3 text-center">
-    <img src="{{ '/assets/img/lab2-logo.png' | relative_url }}" class="img-fluid rounded z-depth-1" 
+    <img src="{{ '/assets/img/vspr_emblem.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" 
      style="max-width: 180px; max-height: 120px; width: auto; height: auto; object-fit: contain;" 
      alt="Vascular Stress Physiology and Resilience Lab Logo">
   </div>
